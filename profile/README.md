@@ -1,9 +1,6 @@
 <div align="center">
   
-  <img src="images/logo.png" alt="优诺智行 Logo" width="120">
-  
-  # ✨ 优诺智行
-  
+  <img src="images/logol.png" alt="优诺智行 Logo" width="360">
   *让每一台机器，感知环境 · 自主决策 · 独立行动*
   
 </div>
@@ -26,7 +23,7 @@
 | 成员 | 角色 | 领域 |
 | :--- | :--- | :--- |
 | [@unomove](https://github.com/unomove) | 核心开发者 / 组织者 | AI / 机器人 |
-| [@另一位成员](https://github.com/xxx) | 核心开发者 | xx / xxx |
+| [](https://github.com/xxx) | 核心开发者 | xx / xxx |
 
 ## 📌 当前进行中
 
