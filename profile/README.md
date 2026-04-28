@@ -1,11 +1,18 @@
-# ✨ younuozhixing
+<div align="center">
+  
+  <img src="images/logo.png" alt="优诺智行 Logo" width="120">
+  
+  # ✨ 优诺智行
+  
+  *让每一台机器，感知环境 · 自主决策 · 独立行动*
+  
+</div>
 
-我们是优诺智行————
-> *让每一台机器，感知环境 · 自主决策 · 独立行动*
+---
 
 ## 📍 关于我们
 
-优诺智行，位于苏州，专注于**具身机器人**领域的技术研发与工程落地。
+总部 base 苏州，专注于**具身机器人**领域的技术研发与工程落地。
 
 我们致力于：
 - 🔭 探索前沿技术，在实践中成长
@@ -18,8 +25,8 @@
 
 | 成员 | 角色 | 领域 |
 | :--- | :--- | :--- |
-| [@unomove] | 核心开发者 / 组织者 | AI / 机器人 / 你想写的领域 |
-| [@另一位成员] | 核心开发者 / xxx | xx / xxx / xxx |
+| [@unomove](https://github.com/unomove) | 核心开发者 / 组织者 | AI / 机器人 |
+| [@另一位成员](https://github.com/xxx) | 核心开发者 | xx / xxx |
 
 ## 📌 当前进行中
 
@@ -28,15 +35,11 @@
 | [项目名] | 简短描述 |
 | [项目名] | 简短描述 |
 
-## 📊 组织统计
-
-![GitHub Org stars](https://img.shields.io/github/stars/younuozhixing?style=social)
-![GitHub followers](https://img.shields.io/github/followers/younuozhixing?style=social)
 
 ## 📫 联系我们
 
 - 💬 GitHub Issues：用于技术讨论和项目反馈
-- 📧 邮箱：contact@unomove.com
+- 📧 邮箱：`contact@unomove.com`
 - 🌐 官网：*www.younuozhixing.com*
 
 **如果你对具身机器人、导航/操作控制感兴趣，欢迎关注我们，或直接与我们取得联系。**
@@ -44,3 +47,17 @@
 ---
 
 ⭐ *关注优诺智行，一起推动具身智能走向现实*
+
+## 📊 组织统计
+
+## 📊 组织统计
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=younuozhixing&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+  
+  ![](https://img.shields.io/github/stars/younuozhixing?label=STARS&color=orange&style=flat)
+  
+  ![](https://img.shields.io/badge/FOLLOWERS-2-success?style=flat)
+  
+</div>
