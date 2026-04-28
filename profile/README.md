@@ -1,8 +1,6 @@
 <div align="center">
-  
   <img src="images/logol.png" alt="优诺智行 Logo" width="360">
-  *让每一台机器，感知环境 · 自主决策 · 独立行动*
-  
+  <p><em>让每一台机器，感知环境 · 自主决策 · 独立行动</em></p>
 </div>
 
 ---
