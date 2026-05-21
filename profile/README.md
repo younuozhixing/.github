@@ -45,8 +45,6 @@
 
 ## 📊 组织统计
 
-## 📊 组织统计
-
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=younuozhixing&color=blueviolet&style=flat&label=PROFILE+VIEWS)
